@@ -1,0 +1,10 @@
+{
+  "scripts": {
+    "start": "parcel start index.html --open"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.1.6",
+    "@babel/plugin-proposal-decorators": "^7.1.6",
+    "parcel-bundler": "^1.10.3"
+  }
+}
